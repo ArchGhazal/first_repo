@@ -1,1 +1,1 @@
-print('Mario')
+print('mario'.capitalize())
