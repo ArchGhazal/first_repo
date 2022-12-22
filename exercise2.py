@@ -1,1 +1,2 @@
-print(25)
+age = 25
+print (age)
