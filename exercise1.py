@@ -1,1 +1,2 @@
-print('mario'.capitalize())
+firstname = 'Mario' 
+print (firstname)
