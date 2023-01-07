@@ -1,5 +1,4 @@
-a = True 
-b = True 
-c = True 
-
-print (a,b,c)
+a= 50
+b = c = a
+result = bool(a==b==c)
+print (result)
