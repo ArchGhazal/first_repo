@@ -1,5 +1,6 @@
-a=1
-b=2
+a = 12
+b = 'Hello'
+
 
 c=a
 a=b
