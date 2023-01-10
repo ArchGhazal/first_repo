@@ -1,1 +1,2 @@
-print (not True)
+a = True
+print (not (a))
