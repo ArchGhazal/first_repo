@@ -1,2 +1,1 @@
-a = True
-print (not (a))
+print ('ture' and 'false')
