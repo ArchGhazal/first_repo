@@ -1,2 +1,1 @@
-a = True
-print (a)
+print ('true' or 'false')
