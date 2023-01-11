@@ -1,3 +1,2 @@
-name = 'Mario'
-a = f'''Hello, l'm {name}!'''
+a='Hello, I\'m Mario!'
 print (a)
